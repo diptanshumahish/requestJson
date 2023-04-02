@@ -2,31 +2,40 @@
     {
         "eventName": "TechKriti",
         "eventDetails": {
-            "fullName": true,
-            "Stream": true,
-            "rollNumber": true,
-            "AotMail": true,
-            "personalEmail": true,
-            "phoneNumber": true,
+            "fullName": "true",
+            "Stream": "true",
+            "rollNumber": "true",
+            "AotMail": "true",
+            "personalEmail": "true",
+            "phoneNumber": "true",
+            "Semester":"true",
+            "hasTopics":"true",
             "topics": [
                 "IOT",
                 "Ethical Hack",
                 "Both"
             ],
-            "Semester":true
+            "isMember":"true"
+           
         }
     },
     {
         "eventName": "Flutter Forward",
         "eventDetails": {
-            "fullName": true,
-            "Stream": true,
-            "rollNumber": true,
-            "AotMail": true,
-            "personalEmail": true,
-            "phoneNumber": true,
-            
-            "Semester":true
+            "fullName": "true",
+            "Stream":"true",
+            "rollNumber": "true",
+            "AotMail": "true",
+            "personalEmail": "true",
+            "phoneNumber": "true",
+            "Semester":"true",
+            "hasTopics":"true",
+             "topics": [
+                "Competition 1",
+                "Competetion 2",
+                "Competetion 3"
+            ],
+             "isMember":"true"
         }
     }
 ]
